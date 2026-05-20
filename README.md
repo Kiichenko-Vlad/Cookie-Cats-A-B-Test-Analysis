@@ -181,6 +181,10 @@ jupyter notebook cookie_cats_analysis.ipynb
 
 ---
 
+*Автор: [Vlad Kiichenko](https://github.com/Kiichenko-Vlad) · [LinkedIn](https://www.linkedin.com/in/vladyslav-kiichenko-81b3b3386/)*
+
+---
+
 <div align="center">
-  <sub>Навчально-тренувальний проєкт з аналізу даних · Python · Jupyter · A/B Testing</sub>
+    Python · Jupyter · A/B Testing</sub>
 </div>
