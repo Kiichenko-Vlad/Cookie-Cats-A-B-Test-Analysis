@@ -6,7 +6,7 @@
 ![scipy](https://img.shields.io/badge/scipy-stats-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Status](https://img.shields.io/badge/status-завершено-2ca02c?style=flat-square)
 
-> Статистичний аналіз впливу переміщення ігрових воріт з рівня 30 на рівень 40 на утримання гравців (retention). Навчально-тренувальний проєкт з аналізу даних.
+> Аналіз впливу UX-рішення на довгострокове утримання гравців: Z-тест, χ²-тест, power analysis та сегментація на реальних даних мобільної гри.
 
 ---
 
