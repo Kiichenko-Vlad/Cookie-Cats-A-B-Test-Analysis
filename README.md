@@ -4,7 +4,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-2.x-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scipy](https://img.shields.io/badge/scipy-stats-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Status](https://img.shields.io/badge/status-завершено-2ca02c?style=flat-square)
 
 > Аналіз впливу UX-рішення на довгострокове утримання гравців: Z-тест, χ²-тест, power analysis та сегментація на реальних даних мобільної гри.
 
